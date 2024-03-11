@@ -1,8 +1,29 @@
-# React + Vite
+**Hello Wolrd!!**
+ 
+ bu projeyi Hakan Yalçınkayanın udemydeki eğitiminden son bitime porjesi olarak olarak yaptım 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ 
+ projemizde kediler için bir car oluşturduk ve bu kedileri blog tarzında beğeni butonu ekledim bu butunda beğenilde beğeni sayısı arttı ve local stroge kaydettim böylelikle sayfayı yenilediğimizde kaybolmadı 
 
-Currently, two official plugins are available:
+ **projede neler yapıldı**
+ 1. Bootsrap Yapı oluşturduk
+ 2. bootstrap nav bar oluşturdum
+ 3. React Dom kuruldu 
+ 4. env yapısı oluşturuldu
+ 5. Container ve Row oluşturuldu
+ 6. Cat APIden Key alındı
+ 7. isLoading,isError,error ve data yapsı kurgulandı
+ 8. Cat API Custom Hook yapıldı
+ 9. Cat API  kategori detay sayfası yapıldı 
+ 10. UI düzenlemesi yapıldı
+ 11. dark ve light tema yapıldı
+ 12. Site routes ayarları yapıldı
+ 13. counter slice yapıldı
+ 14. styled kullanıldı 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+ 
+
+
+
+

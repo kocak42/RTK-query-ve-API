@@ -7,7 +7,6 @@ export const store = configureStore({
   reducer: {
     [catApiSlice.reducerPath]: catApiSlice.reducer,
     counter: counterReducer,
-    
   },
 
   middleware: (getDefaultMiddleware) =>
