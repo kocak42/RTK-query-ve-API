@@ -21,8 +21,14 @@
  13. counter slice yapıldı
  14. styled kullanıldı 
 
+![Adsız](https://github.com/kocak42/RTK-query-ve-API/assets/98641166/c6d86b53-9479-4369-ae41-86e2be0b9ab9)
 
- 
+
+![Adsız1](https://github.com/kocak42/RTK-query-ve-API/assets/98641166/05176e3d-3c04-4d91-bdcf-5d4264eb461d)
+
+
+
+ ![Adsız2](https://github.com/kocak42/RTK-query-ve-API/assets/98641166/690b7e7f-6ad1-41ba-846b-6cb3943c2ea2)
 
 
 
